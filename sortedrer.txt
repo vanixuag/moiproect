@@ -1,0 +1,24 @@
+
+
+
+10) Move mytest.zip to mytest folder and unzip it.
+11) Remove test1, test2, test3 files from /tmp/YourName_Surname/ with one command. 
+12) Remove /tmp/YourName_Surname/ folder.
+13) Create a copy of /etc/passwd file to /root/passwd.copy. Provide commands that will change shell for your regular user in /root/passwd.copy file from /bin/bash to /bin/sh:
+14) (super) write bash script performing items 2-13 with results output into results.txt file.. 
+15) create conf file. Use script with conf file. Content for conf e.g.:
+2) Go to /tmp
+3) Create folder “YourName_Surname”
+4) Search in /tmp/ for all files created\modified 1h before
+5) Search in /tmp/ for all files larger than 20M
+6) Zip test1 and test2 to mytest-{curent_time}.zip.
+7) Add test3 to mytest.zip.
+8) Check size of /tmp/YourName_Surname/ folder
+9) Create /tmp/YourName_Surname/mytest/. 
+ - AWK
+ - BASH
+) Check who\where You are.
+   - Create files test1 (1k), test2 (25M), test3 (1M) in “YourName_Surname” folder 
+   - Create files test1,  test2, test3 in “YourName_Surname” folder 
+ - SED
+ - WHO=who
